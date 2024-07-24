@@ -7,6 +7,7 @@ This repository contains a Streamlit application that predicts whether a custome
 - **Predictive Analytics**: Utilizes machine learning to predict customer purchase behavior.
 - **Interactive UI**: User-friendly interface for inputting customer data.
 - **Real-Time Predictions**: Instant prediction results displayed within the app.
+![Screenshot](https://github.com/taharizvi-ai/Customer-purchase-prediction-App/blob/main/Screenshot%202024-07-24%20113848.png)
 
 ## How It Works
 1. Input customer data into the provided fields:
